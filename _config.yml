@@ -1,8 +1,15 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: MidnightOS docs
+description: Docs for MidnightOS
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+color_scheme: dark
+
+url: https://midnightos.github.io/docs/
+
+callouts:
+  warning:
+    title: Warning
+    color: red
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
